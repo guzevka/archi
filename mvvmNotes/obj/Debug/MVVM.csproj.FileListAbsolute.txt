@@ -1,0 +1,72 @@
+c:\bin\MVVM\practics-master\bin\Debug\MVVM.exe.config
+c:\bin\MVVM\practics-master\bin\Debug\MVVM.exe
+c:\bin\MVVM\practics-master\bin\Debug\MVVM.pdb
+c:\bin\MVVM\practics-master\obj\Debug\MVVM.csprojAssemblyReference.cache
+c:\bin\MVVM\practics-master\obj\Debug\MainWindow.g.cs
+c:\bin\MVVM\practics-master\obj\Debug\App.g.cs
+c:\bin\MVVM\practics-master\obj\Debug\MVVM_MarkupCompile.cache
+c:\bin\MVVM\practics-master\obj\Debug\MVVM_MarkupCompile.lref
+c:\bin\MVVM\practics-master\obj\Debug\MainWindow.baml
+c:\bin\MVVM\practics-master\obj\Debug\MVVM.g.resources
+c:\bin\MVVM\practics-master\obj\Debug\MVVM.Properties.Resources.resources
+c:\bin\MVVM\practics-master\obj\Debug\MVVM.csproj.GenerateResource.cache
+c:\bin\MVVM\practics-master\obj\Debug\MVVM.csproj.CoreCompileInputs.cache
+c:\bin\MVVM\practics-master\obj\Debug\MVVM.exe
+c:\bin\MVVM\practics-master\obj\Debug\MVVM.pdb
+C:\Users\TEMP\Downloads\mvvm\bin\Debug\MVVM.exe.config
+C:\Users\TEMP\Downloads\mvvm\bin\Debug\MVVM.exe
+C:\Users\TEMP\Downloads\mvvm\bin\Debug\MVVM.pdb
+C:\Users\TEMP\Downloads\mvvm\obj\Debug\MVVM.csproj.AssemblyReference.cache
+C:\Users\TEMP\Downloads\mvvm\obj\Debug\MainWindow.g.cs
+C:\Users\TEMP\Downloads\mvvm\obj\Debug\App.g.cs
+C:\Users\TEMP\Downloads\mvvm\obj\Debug\MVVM_MarkupCompile.cache
+C:\Users\TEMP\Downloads\mvvm\obj\Debug\MVVM_MarkupCompile.lref
+C:\Users\TEMP\Downloads\mvvm\obj\Debug\MainWindow.baml
+C:\Users\TEMP\Downloads\mvvm\obj\Debug\MVVM.g.resources
+C:\Users\TEMP\Downloads\mvvm\obj\Debug\MVVM.Properties.Resources.resources
+C:\Users\TEMP\Downloads\mvvm\obj\Debug\MVVM.csproj.GenerateResource.cache
+C:\Users\TEMP\Downloads\mvvm\obj\Debug\MVVM.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\Downloads\mvvm\obj\Debug\MVVM.exe
+C:\Users\TEMP\Downloads\mvvm\obj\Debug\MVVM.pdb
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\bin\Debug\MVVM.exe.config
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\bin\Debug\MVVM.exe
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\bin\Debug\MVVM.pdb
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\obj\Debug\MVVM.csproj.AssemblyReference.cache
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\obj\Debug\MVVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\obj\Debug\MainWindow.g.cs
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\obj\Debug\App.g.cs
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\obj\Debug\MVVM_MarkupCompile.cache
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\obj\Debug\MVVM_MarkupCompile.lref
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\obj\Debug\MainWindow.baml
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\obj\Debug\MVVM.g.resources
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\obj\Debug\MVVM.Properties.Resources.resources
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\obj\Debug\MVVM.csproj.GenerateResource.cache
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\obj\Debug\MVVM.csproj.CoreCompileInputs.cache
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\obj\Debug\MVVM.exe
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvm\obj\Debug\MVVM.pdb
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvmCan\obj\Debug\MVVM.csproj.AssemblyReference.cache
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvmCan\obj\Debug\MVVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvmCan\obj\Debug\MainWindow.g.cs
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvmCan\obj\Debug\Window1.g.cs
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvmCan\obj\Debug\App.g.cs
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvmCan\obj\Debug\MVVM_MarkupCompile.cache
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvmCan\obj\Debug\MVVM_MarkupCompile.lref
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvmCan\obj\Debug\MVVM.exe
+C:\Users\walla\OneDrive\Рабочий стол\4 семестр\архт\mvvmCan\obj\Debug\MVVM.pdb
+Z:\арахт\mvvmCan\obj\Debug\MVVM.csproj.AssemblyReference.cache
+Z:\арахт\mvvmCan\obj\Debug\MainWindow.g.cs
+Z:\арахт\mvvmCan\obj\Debug\Window1.g.cs
+Z:\арахт\mvvmCan\obj\Debug\App.g.cs
+Z:\арахт\mvvmCan\obj\Debug\MVVM_MarkupCompile.cache
+Z:\арахт\mvvmCan\obj\Debug\MVVM_MarkupCompile.lref
+Z:\арахт\mvvmCan\obj\Debug\MVVM.exe
+Z:\арахт\mvvmCan\obj\Debug\MVVM.pdb
+Z:\арахт\mvvmCan\bin\Debug\MVVM.exe.config
+Z:\арахт\mvvmCan\bin\Debug\MVVM.exe
+Z:\арахт\mvvmCan\bin\Debug\MVVM.pdb
+Z:\арахт\mvvmCan\obj\Debug\MainWindow.baml
+Z:\арахт\mvvmCan\obj\Debug\Window1.baml
+Z:\арахт\mvvmCan\obj\Debug\MVVM.g.resources
+Z:\арахт\mvvmCan\obj\Debug\MVVM.Properties.Resources.resources
+Z:\арахт\mvvmCan\obj\Debug\MVVM.csproj.GenerateResource.cache
+Z:\арахт\mvvmCan\obj\Debug\MVVM.csproj.CoreCompileInputs.cache
